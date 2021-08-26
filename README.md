@@ -1,1 +1,1 @@
-# Checking-System-s-Physical-and-Logical-Core-and-Threads-per-Core
+# Checking System's Physical, Logical Core and Threads Usage Per Core
