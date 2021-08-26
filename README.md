@@ -1,0 +1,1 @@
+# Checking-System-s-Physical-and-Logical-Core-and-Threads-per-Core
